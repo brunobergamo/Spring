@@ -19,5 +19,6 @@ public class Cantor implements Competidor {
 
     public void apresentar() {
         musica.cantar();
+        musica.cantar();
     }
 }
